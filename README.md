@@ -1,4 +1,4 @@
-# ustvnow-iptv-m3u-playlist
+# USTVNOW-IPTV-M3U- An Amazing Playlist
 
 
 ## About:
